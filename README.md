@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 AR Safety Mirror - Adaptive Reality Safety Mirror
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -260,3 +261,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <br>
   <em>Autonomous Safety • Real-time Detection • Self-Learning AI</em>
 </div>
+=======
+# AR-SM
+>>>>>>> e13a81f0faa19c3036b59c8efc16eec8fcd7029d
